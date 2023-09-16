@@ -1,0 +1,112 @@
+---
+object: card
+id: 38806839-c820-4a19-a92c-70f6f21d2aea
+oracle_id: a3e51a35-09df-4189-b131-08a21e6a557d
+multiverse_ids: []
+tcgplayer_id: 207770
+cardmarket_id: 433774
+name: Cryptic Command
+lang: en
+released_at: '2020-01-01'
+uri: https://api.scryfall.com/cards/38806839-c820-4a19-a92c-70f6f21d2aea
+scryfall_uri: https://scryfall.com/card/ppro/2020-1/cryptic-command?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.jpg?1584829107
+  normal: https://cards.scryfall.io/normal/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.jpg?1584829107
+  large: https://cards.scryfall.io/large/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.jpg?1584829107
+  png: https://cards.scryfall.io/png/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.png?1584829107
+  art_crop: https://cards.scryfall.io/art_crop/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.jpg?1584829107
+  border_crop: https://cards.scryfall.io/border_crop/front/3/8/38806839-c820-4a19-a92c-70f6f21d2aea.jpg?1584829107
+mana_cost: "{1}{U}{U}{U}"
+cmc: 4.0
+type_line: Instant
+oracle_text: |-
+  Choose two —
+  • Counter target spell.
+  • Return target permanent to its owner's hand.
+  • Tap all creatures your opponents control.
+  • Draw a card.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set: ppro
+set_name: Pro Tour Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ppro?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/38806839-c820-4a19-a92c-70f6f21d2aea/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa3e51a35-09df-4189-b131-08a21e6a557d&unique=prints
+collector_number: 2020-1
+digital: false
+rarity: rare
+watermark: wotc
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Rainville
+artist_ids:
+- 6ed7e669-579b-443d-b223-e5cbcb2a7483
+illustration_id: 252862e5-49a9-4922-b445-70621d4de6f2
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 1615
+prices:
+  usd: 
+  usd_foil: '5.87'
+  usd_etched: 
+  eur: 
+  eur_foil: '5.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cryptic+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cryptic+Command&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cryptic+Command
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/207770?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cryptic+Command&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cryptic+Command&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

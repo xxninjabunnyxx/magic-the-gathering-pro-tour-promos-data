@@ -1,0 +1,113 @@
+---
+object: card
+id: 605974f0-6a76-4eb6-b611-6155529ba17d
+oracle_id: 2da5aa33-3794-4f83-936c-9d8640833d86
+multiverse_ids: []
+tcgplayer_id: 38406
+cardmarket_id: 22090
+name: Avatar of Woe
+lang: en
+released_at: '2010-01-01'
+uri: https://api.scryfall.com/cards/605974f0-6a76-4eb6-b611-6155529ba17d
+scryfall_uri: https://scryfall.com/card/ppro/2010/avatar-of-woe?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.jpg?1562636757
+  normal: https://cards.scryfall.io/normal/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.jpg?1562636757
+  large: https://cards.scryfall.io/large/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.jpg?1562636757
+  png: https://cards.scryfall.io/png/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.png?1562636757
+  art_crop: https://cards.scryfall.io/art_crop/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.jpg?1562636757
+  border_crop: https://cards.scryfall.io/border_crop/front/6/0/605974f0-6a76-4eb6-b611-6155529ba17d.jpg?1562636757
+mana_cost: "{6}{B}{B}"
+cmc: 8.0
+type_line: Creature — Avatar
+oracle_text: |-
+  If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.
+  Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+  {T}: Destroy target creature. It can't be regenerated.
+power: '6'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Fear
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set: ppro
+set_name: Pro Tour Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ppro?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/605974f0-6a76-4eb6-b611-6155529ba17d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2da5aa33-3794-4f83-936c-9d8640833d86&unique=prints
+collector_number: '2010'
+digital: false
+rarity: rare
+watermark: protour
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: rk post
+artist_ids:
+- 81ae0f3f-1d88-4125-9aeb-b15b4c734c82
+illustration_id: 242664ce-8fe3-4d47-8de3-a9c9033e20a9
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 3786
+penny_rank: 11208
+prices:
+  usd: 
+  usd_foil: '42.69'
+  usd_etched: 
+  eur: 
+  eur_foil: '15.75'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Avatar+of+Woe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Avatar+of+Woe&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Avatar+of+Woe
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38406?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Avatar+of+Woe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Avatar+of+Woe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

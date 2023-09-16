@@ -1,0 +1,115 @@
+---
+object: card
+id: 76cc445b-ccd4-4c93-8c7c-fa6582567111
+oracle_id: 84dc18f0-8225-4b40-a165-b10321e41769
+multiverse_ids: []
+tcgplayer_id: 278719
+name: Nykthos, Shrine to Nyx
+lang: en
+released_at: '2022-03-31'
+uri: https://api.scryfall.com/cards/76cc445b-ccd4-4c93-8c7c-fa6582567111
+scryfall_uri: https://scryfall.com/card/ppro/2022-3/nykthos-shrine-to-nyx?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.jpg?1659662115
+  normal: https://cards.scryfall.io/normal/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.jpg?1659662115
+  large: https://cards.scryfall.io/large/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.jpg?1659662115
+  png: https://cards.scryfall.io/png/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.png?1659662115
+  art_crop: https://cards.scryfall.io/art_crop/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.jpg?1659662115
+  border_crop: https://cards.scryfall.io/border_crop/front/7/6/76cc445b-ccd4-4c93-8c7c-fa6582567111.jpg?1659662115
+mana_cost: ''
+cmc: 0.0
+type_line: Legendary Land
+oracle_text: |-
+  {T}: Add {C}.
+  {2}, {T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- B
+- C
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set: ppro
+set_name: Pro Tour Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ppro?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/76cc445b-ccd4-4c93-8c7c-fa6582567111/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A84dc18f0-8225-4b40-a165-b10321e41769&unique=prints
+collector_number: 2022-3
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alayna Danner
+artist_ids:
+- bb677b1a-ce51-4888-83d6-5a94de461ff9
+illustration_id: e5bf102a-eb48-42a4-86f2-ec22f133c6cd
+border_color: black
+frame: '2015'
+frame_effects:
+- legendary
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 144
+prices:
+  usd: '38.80'
+  usd_foil: '100.21'
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nykthos%2C+Shrine+to+Nyx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nykthos%2C+Shrine+to+Nyx&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nykthos%2C+Shrine+to+Nyx
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/278719?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nykthos%2C+Shrine+to+Nyx&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nykthos%2C+Shrine+to+Nyx&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

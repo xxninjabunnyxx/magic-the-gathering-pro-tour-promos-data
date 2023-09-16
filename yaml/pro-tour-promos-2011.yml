@@ -1,0 +1,124 @@
+---
+object: card
+id: e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1
+oracle_id: dfb5f660-fd8b-4b7b-934c-6a71cd182f15
+multiverse_ids: []
+tcgplayer_id: 39335
+cardmarket_id: 244773
+name: Ajani Goldmane
+lang: en
+released_at: '2011-02-10'
+uri: https://api.scryfall.com/cards/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1
+scryfall_uri: https://scryfall.com/card/ppro/2011/ajani-goldmane?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.jpg?1562636869
+  normal: https://cards.scryfall.io/normal/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.jpg?1562636869
+  large: https://cards.scryfall.io/large/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.jpg?1562636869
+  png: https://cards.scryfall.io/png/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.png?1562636869
+  art_crop: https://cards.scryfall.io/art_crop/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.jpg?1562636869
+  border_crop: https://cards.scryfall.io/border_crop/front/e/0/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1.jpg?1562636869
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Legendary Planeswalker — Ajani
+oracle_text: |-
+  +1: You gain 2 life.
+  −1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+  −6: Create a white Avatar creature token. It has "This creature's power and toughness are each equal to your life total."
+loyalty: '4'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 863768b5-3cf9-415c-b4fd-371dc5afee18
+  component: token
+  name: Avatar
+  type_line: Token Creature — Avatar
+  uri: https://api.scryfall.com/cards/863768b5-3cf9-415c-b4fd-371dc5afee18
+- object: related_card
+  id: e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1
+  component: combo_piece
+  name: Ajani Goldmane
+  type_line: Legendary Planeswalker — Ajani
+  uri: https://api.scryfall.com/cards/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set: ppro
+set_name: Pro Tour Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/e82b640d-bacf-41a5-8cf9-85e1ffeee71e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Appro&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ppro?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e0dd3245-b4d0-43ce-9c98-c3c5bc1767a1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adfb5f660-fd8b-4b7b-934c-6a71cd182f15&unique=prints
+collector_number: '2011'
+digital: false
+rarity: mythic
+watermark: protour
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 28658b87-9499-46a8-9f6b-eb8ed974bcb1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+edhrec_rank: 7945
+penny_rank: 2101
+prices:
+  usd: 
+  usd_foil: '12.97'
+  usd_etched: 
+  eur: 
+  eur_foil: '4.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ajani+Goldmane&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ajani+Goldmane&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ajani+Goldmane
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39335?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ajani+Goldmane&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ajani+Goldmane&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
